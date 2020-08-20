@@ -1,0 +1,72 @@
+
+[b]++ Unbound Army (Faction) (Imperium - Adeptus Astartes - Ultramarines) [60 PL, -1CP, 1,400pts] ++[/b]
+
+[b]+ Configuration +[/b]
+
+[b]**Chapter Selection**:[/b] Ultramarines
+
+[b]Gametype:[/b] Narrative
+
+[b]+ Stratagems +[/b]
+
+[b]Relics of the Chapter [-1CP]:[/b] Number of extra Relics
+
+[b]+ HQ +[/b]
+
+[b]Captain Sicarius [7 PL, 115pts]:[/b] Warlord
+
+[b]Librarian [5 PL, 95pts]:[/b] 2) Might of Heroes, 2) Scryer's Gaze, 5) Psychic Shackles, Force stave, Plasma pistol, Tome of Malcador
+
+[b]+ Troops +[/b]
+
+[b]Tactical Squad [7 PL, 180pts][/b]
+. 7x Space Marine: 7x Bolt pistol, 7x Boltgun, 7x Frag & Krak grenades
+. Space Marine Sergeant: Bolt pistol, Chainsword, Melta bombs
+. Space Marine w/Heavy Weapon: Missile launcher
+. Space Marine w/Special Weapon: Plasma gun
+
+[b]Tactical Squad [7 PL, 188pts][/b]
+. 7x Space Marine: 7x Bolt pistol, 7x Boltgun, 7x Frag & Krak grenades
+. Space Marine Sergeant: Melta bombs, Power fist, Storm bolter
+. Space Marine w/Heavy Weapon: Heavy bolter
+. Space Marine w/Special Weapon: Plasma gun
+
+[b]Tactical Squad [7 PL, 175pts][/b]
+. 7x Space Marine: 7x Bolt pistol, 7x Boltgun, 7x Frag & Krak grenades
+. Space Marine Sergeant: Boltgun, Chainsword
+. Space Marine w/Heavy Weapon: Missile launcher
+. Space Marine w/Special Weapon: Meltagun
+
+[b]+ Elites +[/b]
+
+[b]Chapter Champion [3 PL, 75pts]:[/b] Champion's blade, Relic blade, The Angel Artifice
+
+[b]Dreadnought [5 PL, 113pts]:[/b] Assault cannon
+. Dreadnought combat weapon w/Storm Bolter: Storm bolter
+
+[b]Dreadnought [5 PL, 118pts]:[/b] Multi-melta
+. Dreadnought combat weapon w/Storm Bolter: Storm bolter
+
+[b]+ Fast Attack +[/b]
+
+[b]Assault Squad [5 PL, 113pts]:[/b] Jump Pack
+. 2x Space Marine: 2x Bolt pistol, 2x Chainsword, 2x Frag & Krak grenades
+. Space Marine Sergeant: Combat shield, Melta bombs, Plasma pistol, Power axe
+. [b]Space Marine w/Special Weapon[/b]
+. . Plasma Pistol & Chainsword: Plasma pistol
+. [b]Space Marine w/Special Weapon[/b]
+. . Plasma Pistol & Chainsword: Plasma pistol
+
+[b]+ Heavy Support +[/b]
+
+[b]Devastator Squad [9 PL, 228pts]:[/b] Armorium Cherub
+. 5x Space Marine: 5x Bolt pistol, 5x Boltgun, 5x Frag & Krak grenades
+. Space Marine Sergeant: Lightning Claw, Storm bolter
+. Space Marine w/Heavy Weapon: Lascannon
+. Space Marine w/Heavy Weapon: Lascannon
+. Space Marine w/Heavy Weapon: Plasma cannon
+. Space Marine w/Heavy Weapon: Multi-melta
+
+[b]++ Total: [60 PL, -1CP, 1,400pts] ++[/b]
+
+Created with [url=https://battlescribe.net]BattleScribe[/url]
