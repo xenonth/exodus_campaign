@@ -11,31 +11,41 @@
 <!--Each div class or id is broken down into each major faction broken up about its allegiance and story in the setting for other players to read-->
 <!--Things to do, just have table hover on the crusade faction name to bring up the next webpage about that faction.-->
 <body>
-    <div class="container-fluid">
+    <main class="container-fluid">
         <p class="h2 text-center">
             The Exodus Gambit
             <small class="text-muted">-A 40k survival campaign</small>
         </p>
         <!--navbar to guide around the website-->
-            <div>
-                <ul class="nav justify-content-center">
-                    <li class="nav-item">
-                      <a class="nav-link active" href="#background">Background</a> 
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#exodus">Exodus Aligned</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#imperium">Imperium</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#chaos">Chaos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#xenos">Xenos</a>
-                    </li>
-                </ul>
-                    <br>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <a class="navbar-brand" href="#">EGG</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto nav justify-content-center">
+              <li class="nav-item">
+                <li class ="nav-item">
+                  <a class="nav-link" href="missions/mission_one.html">Prologue</a></a> 
+              </li>
+              <li>
+                <a class= "nav-link active" href="index.html">Home</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Factions 
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="#exodus">Exodus Aligned</a>
+                  <a class="dropdown-item" href="#imperium">Imperium</a>
+                  <a class="dropdown-item" href="#chaos">Chaos</a>
+                  <a class="dropdown-item" href="#xenos">Xenos</a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </nav>
         <!--background description as to what is happening in the narrative-->
         <p class="h3 text-center" id="background">Background Narrative</p>
         <p class= "lead">
@@ -52,8 +62,8 @@
         <br>
     <!--There will be one html file per force linked to and from the table to give each force its own unique fill and fluff.  As I get better upgrade the site with js etc.-->
     <!--This is for imperium forces which are allied with the exodus crusade with some reason given as to why.  The layout will most likely follow the Order of Battle layout as seen in the 9th ed. 40k rulebook-->
-       <div class= row>   
-        <div class= "col" id="exodus">
+       <div class= "row">   
+        <div class= "col-md-6" id="exodus">
             <table class="table table-hover w-50">
             
                 <thead>
@@ -86,7 +96,7 @@
         </div>
         
         <!--This should display the Imperium aligned forces with the idea of creating a drop down menu with hyperlinks to external webdocuments displaying the table content, who is in it and other fluff mechanics.  All of this is practice for my main assignment-->
-        <div class= "col" id="imperium">
+        <div class= "col-md-6" id="imperium">
             <table class="table table-hover w-50">
             
                 <thead>
@@ -121,7 +131,7 @@
         <br>
         <!--This should display the Chaos aligned forces with the idea of creating a drop down menu with hyperlinks to external webdocuments displaying the table content, who is in it and other fluff mechanics.  All of this is practice for my main assignment-->
       <div class="row">  
-        <div class="col" id="chaos">
+        <div class="col-md-6" id="chaos">
             <table class="table w-50">
             
                 <thead>
@@ -155,7 +165,7 @@
           
             <!--This should display the xenos aligned forces with the idea of creating a drop down menu with hyperlinks to external webdocuments displaying the table content, who is in it and other fluff mechanics.  All of this is practice for my main assignment-->
             <!--Depending on how many particpants may be worth breaking this down into subfactions-->
-            <div class="col" id="xenos">
+            <div class="col-md-6" id="xenos">
                 <table class="table table-hover w-50">
                 
                     <thead>
@@ -187,5 +197,8 @@
                 </div>
               </div>  
         <!--Disclaimer to be placed here-->
-    </div>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 </body>
