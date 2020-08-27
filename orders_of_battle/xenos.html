@@ -7,9 +7,44 @@
         Xenos Orders of Battle
     </title>
 </head>
-<div class="container-fluid">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">EGG</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto nav justify-content-center">
+                <li class ="nav-item">
+                    <a class="nav-link" href="../missions/mission_one.html">Prologue</a></a> 
+                </li>
+                <li>
+                    <a class= "nav-link active" href="../index.html">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Factions 
+                    </a>
+                    <!--Replace table links with Orders of Battle links.-->
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item disabled" href="#exodus">Exodus Aligned</a>
+                        <a class="dropdown-item" href="imperium.html">Imperium</a>
+                        <a class="dropdown-item disabled" href="#chaos">Chaos</a>
+                        <a class="dropdown-item active" href="xenos.html">Xenos</a>
+                    </div>
+                </li>
+                <li>
+                    <a class= "nav-link" href="#eldar">Shelwe-Inn</a>
+                </li>
+                <li>
+                    <a class= "nav-link" href="#tau">Tau Sept</a>
+                </li>
+            </ul>
+        </div>
+</nav>
+</header>
 <body>
-    <div>
+    <section class="container-fluid" id="eldar">
         <p class="h3">Shelwe-Inn First Wraith Host</p>
         <!--fluff--><p>
             The Shelwe-Inn craftworld lies within the Tau empire and is more akin to a corsair fleet then a 'craftworld'. When the offer came, the conclave and high Farseer forsore to send a detachment, half wraith half aspect as this journey would not be an easy one and will most likely result in failure.  Giving orders to Spiritseer Mor'ta'ley supported by two upcoming warlocks aided by a small aspect warrior battalionand a wraithhost vanguard. This is the Exodus Campaign from their perspective.
@@ -45,11 +80,16 @@
             </ul>         
         </ul>
         
-    </div>
-    </div>    
-    <div>
-        <p class= "h5">Tau Sept Expansion Force</p>
-
+    </section>
+       
+    <section class ="container-fluid">
+        <p class= "h3" id= "tau">Tau Sept Expansion Force</p>
+        <br>
+        <p>"Unidentified force, repaet Unidentified force..." 
+            <br>
+            - Last message from Imperial Scout Requiem.
+        </p>
+        <br>
         <ul>
             <p class= "h5">HQ's</p>
             <ul>
@@ -83,9 +123,8 @@
             </ul>         
         </ul>
         
-    </div>
-    </div> 
-    </div>
-
-    </body>
+    </section>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script> 
 </body>
